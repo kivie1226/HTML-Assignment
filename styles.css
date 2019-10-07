@@ -1,0 +1,66 @@
+header { 
+  color: whitesmoke;  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+
+img.UglyPants {
+    float: left;
+    width: 250px;
+    height: 300px;
+    vertical-align: super;
+    padding: 7px;
+    margin-left: 5px;
+}
+img.Doctor {
+    float: left;
+    width: 250px;
+    height: 300px;
+    vertical-align: super;
+    padding: 7px;
+    margin-left: 5px
+}
+img.Grandpa {
+    float: left;
+    width: 250px;
+    height: 300px;
+    vertical-align: super;
+    padding: 7px;
+    margin-left: 5px;
+}
+
+body {
+    background-color: midnightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+}
+
+div.Pants {
+    color: red;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-indent: 50px;
+}
+
+div.Doctor {
+    color: yellow;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-indent: 50px;
+}
+
+div.Grandpa {
+    color: greenyellow;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-indent: 50px;
+}
+
+h3 {
+    color: rgb(121, 38, 180);
+    text-align: left;
+}
+
