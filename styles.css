@@ -1,5 +1,5 @@
 header { 
-  color: whitesmoke;  
+  color: white;  
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
   margin-right: 100px;
@@ -7,29 +7,14 @@ header {
 }
 
 
-img.UglyPants {
+img {
     float: left;
+    clear: both;
     width: 250px;
     height: 300px;
-    vertical-align: super;
-    padding: 7px;
-    margin-left: 5px;
-}
-img.Doctor {
-    float: left;
-    width: 250px;
-    height: 300px;
-    vertical-align: super;
-    padding: 7px;
-    margin-left: 5px
-}
-img.Grandpa {
-    float: left;
-    width: 250px;
-    height: 300px;
-    vertical-align: super;
-    padding: 7px;
-    margin-left: 5px;
+    vertical-align: text-top;
+    padding: 10px;
+    margin-left: 10px;
 }
 
 body {
@@ -39,28 +24,34 @@ body {
 }
 
 div.Pants {
-    color: red;
+    color:whitesmoke;
     margin-right: 100px;
     margin-left: 100px;
     text-indent: 50px;
 }
 
 div.Doctor {
-    color: yellow;
+    color:silver;
     margin-right: 100px;
     margin-left: 100px;
     text-indent: 50px;
 }
 
 div.Grandpa {
-    color: greenyellow;
+    color: gray;
     margin-right: 100px;
     margin-left: 100px;
     text-indent: 50px;
 }
 
 h3 {
-    color: rgb(121, 38, 180);
+    color:cadetblue;
     text-align: left;
+    padding-top: 75px;
 }
 
+footer {
+    text-align: right;
+    color: cadetblue;
+    padding: 100px;
+}
