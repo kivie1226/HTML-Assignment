@@ -23,21 +23,21 @@ body {
     font-size: 150%;
 }
 
-div.Pants {
+article.Pants {
     color:whitesmoke;
     margin-right: 100px;
     margin-left: 100px;
     text-indent: 50px;
 }
 
-div.Doctor {
+article.Doctor {
     color:silver;
     margin-right: 100px;
     margin-left: 100px;
     text-indent: 50px;
 }
 
-div.Grandpa {
+article.Grandpa {
     color: gray;
     margin-right: 100px;
     margin-left: 100px;
@@ -53,5 +53,5 @@ h3 {
 footer {
     text-align: right;
     color: cadetblue;
-    padding: 100px;
+    padding: 150px;;
 }
